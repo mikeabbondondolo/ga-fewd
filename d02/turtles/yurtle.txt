@@ -1,1 +1,11 @@
 yurtle was a very nice turtle
+
+
+<table>
+	<tr>
+		<td>Product</td>
+		<td>Price</td> 
+	</tr>
+</table> 	
+
+	
