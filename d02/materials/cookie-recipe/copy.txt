@@ -1,5 +1,5 @@
 
-<h1>The Best Chocolate Chip Cookies</h1>
+The Best Chocolate Chip Cookies
 
 cookies.jpg (*hint: <img> tag, this is a bonus)
 
