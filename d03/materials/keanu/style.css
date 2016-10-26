@@ -1,0 +1,31 @@
+h1 {
+	color: rgb(255,5,29);
+	font-size: 50px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+h2 {
+	color: rgb(0,0,0);
+	font-size: 20px;
+	font-family: helvetica;
+}
+
+h3 {
+	color: rgb(255,5,29);
+	font-size: 14px;
+	font-family: helvetica;
+}
+
+p{
+	color: black;
+	font-size: 12px;
+	font-family: helvetica;
+}
+
+.bullet {
+	color: green;
+}
+
+#travel {
+	color: blue;
+}
