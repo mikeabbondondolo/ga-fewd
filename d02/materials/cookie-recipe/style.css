@@ -12,7 +12,7 @@ footer {
 	font: bold 12px Helvetica, Sans-Serif;
 	text-align: center;
 	background-size: 60px;
-	background-color: #a32a38;
+	background-color: #aa2a38;
 	color: white;
 	padding-top: 20;
 	padding-bottom: 20px;
@@ -20,6 +20,7 @@ footer {
 
 h5 {
 	font: 12px Helvetica, Sans-Serif;
+	line-height: 16px;
 }
 
 
@@ -27,7 +28,7 @@ h5 {
 
 h4 {
 	font: bold 12px Helvetica, Sans-Serif;
-	color: #a32a38;
+	color: #aa2a38;
     text-align: left;
 }
 
@@ -38,7 +39,7 @@ h3 {
 
 h2 span {
 	color: white;
-	font: bold 44px/55px Helvetica, Sans-Serif;
+	font: bold 44px/55px 'Fjalla One', sans-serif;
 	letter-spacing: -1px;
 	background: rgb(0,0,0);
 	background: rgba(0,0,0,0.7);
@@ -51,7 +52,7 @@ h2 span.spacer {
 
 
 h2 {
-	color: white;
+	color: black;
 	position: absolute;
 	top: 100px;
 	left: 0px;
@@ -61,7 +62,7 @@ h2 {
 
 
 h1 {
-	color: black;
+	color: grey;
 	top: 200px;
 	left:0;
 	width: 100%;
@@ -73,3 +74,4 @@ h1 {
 	height: auto;
 	width: 100%;
 }
+
