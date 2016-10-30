@@ -1,0 +1,89 @@
+.grey-box {
+	width: auto;
+	height: auto;
+	background-color: lightgrey;
+	padding: 15px;
+	border-bottom: 20px;	
+}
+
+.black-box {
+	width: auto;
+	height: auto;
+	background-size: auto;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 20px;
+	display: auto;
+}
+
+.first-orange {
+	width: auto;
+	height: auto;
+	background-size: auto;
+	background-color: #ff5630;
+	color: purple;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 15px;
+	font-family: helvetica;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.second-orange {
+	width: auto;
+	height: auto;
+	background-size: auto;
+	background-color: #ff5630;
+	color: green;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 15px;
+	font-family: helvetica;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.third-orange {
+	width: auto;
+	height: auto;
+	background-size: auto;
+	background-color: #ff5630;
+	color: yellow;
+	text-align: center;
+	padding: 15px;
+	font-family: helvetica;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.Home {
+	display: inline-block;
+	padding:10px 25px;
+	color: white;
+	font-family: helvetica;
+}
+
+.About {
+	display: inline-block;
+	padding:10px 25px;
+		color: white;
+	font-family: helvetica;
+}
+
+.Blog {
+	display: inline-block;
+	padding:10px 25px;
+	color: white;
+	font-family: helvetica;
+}
+
+.Store {
+	display: inline-block;
+	padding:10px 25px;
+	color: white;
+	font-family: helvetica;
+}
+
