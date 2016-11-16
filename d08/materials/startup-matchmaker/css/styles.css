@@ -1,0 +1,196 @@
+/* FONT FAMILY HELPERS // font-family: 'Oswald', sans-serif;
+// font-family: 'Merriweather', serif;:)
+
+// font-family: 'Source Sans Pro', sans-serif;
+*/
+* {
+	box-sizing: border-box;
+}
+
+.border {
+	border-right: 1px solid #c6c6c6;
+}
+
+.yellow {
+	background-color: yellow;
+	max-height: 5px;
+}
+
+
+.sub {
+	background-color: #c6c6c6;
+}
+
+.subhead {
+	text-align: center;
+	font-style: italic;
+}
+
+.button {
+	max-width: 250px;
+	max-height: 60px;
+	background-color: #c6c6c6;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	text-align: center;
+	align-content: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 2px #888888;
+}
+
+.button:hover {
+	background-color: black;
+	color: white;
+}
+
+.grey {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.yellowbutton {
+	max-width: 300px;
+	max-height: 60px;
+	background-color: yellow;
+	font-family: 'Oswald', sans-serif;
+	font-style: bold;
+	font-size: 14px;
+	text-align: center;
+	align-content: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 2px #888888;
+}
+
+.yellowbutton:hover {
+	background-color: black;
+	color: white;
+}
+
+.hero {
+   background-image:url(../img/coworking.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 100%;
+   border: 1px solid #DDDDDD;
+   width: 100%;
+   height: 400px;
+   padding: 20px;
+
+}
+.insert {
+   background-color: rgba(255,255,255,.75);
+   text-align: left;
+   padding: 20px;
+   margin: 20px;
+   width: 350px;
+
+}
+
+.col-1-3 {
+	padding: 35px;
+}
+
+
+
+img {
+
+}
+
+
+a {
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-right: 8px;
+	display: inline-block;
+
+}	
+
+a:hover {
+	color: grey;
+}
+
+p {
+	font-family: "Source Sans Pro"
+	font-size: 8px;
+	line-height: 24px;
+}
+
+h1 {
+	color: yellow;
+	font-family: 'Merriweather', serif;
+}
+
+h2 {
+	text-align: center;
+	font-family: "Merriweather", serif;
+}
+
+h3 {
+	font-family: 'Merriweather';
+}
+
+header {
+	background-color: black;
+	border-bottom: 3px solid yellow;
+}
+
+header h1 {
+	display: inline-block;
+	width: 49%;
+	padding: 0 15px;
+}
+
+nav {
+	display: inline-block;
+	width: 49%;
+	text-align: right;
+	padding: 25px;
+}
+
+strike {
+	color: #808080;
+}
+
+#yellowunderline {
+	border-bottom: 1px solid yellow;
+}
+
+
+.footer {
+	background-color: black;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: white;
+	padding: 20px;
+}
+
+@media (max-width: 770px) {
+	article, header h1, nav {
+		display: block;
+		width: 100%;
+	}
+
+	header h1, nav {
+		margin-top: 0;
+		text-align: center;
+		padding-left: 0px;
+	}
+
+
+	.border {
+		border-right: none;
+		border-bottom: 1px solid #c6c6c6;
+	}
+
+	.push-2-3 {
+		margin-left: 0px;
+	}
+
+	.grid {
+		padding: 0px;
+	}
